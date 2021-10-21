@@ -1,0 +1,77 @@
+ 
+ header {
+        color: rgb(90, 63, 41);
+        font-size: 40px;
+        text-align: center;
+        border: 1px double whitesmoke;
+        padding: 20px;
+    }
+    div{
+        margin-right: 20%;
+    }
+body {
+        background: #333;
+        color: whitesmoke;
+       
+    }
+    img {
+        border: whitesmoke double;
+    }
+    h3 {
+        color: rgb(90, 63, 41);
+        font-size: 40px;
+    }
+    ul {
+        font-size: 40px;
+        text-decoration: none;
+        position: fixed;
+        top: 210px;
+        color: whitesmoke(90, 63, 41);
+        text-align: center;
+        border: whitesmoke double;
+        padding-left: 20px;
+    }
+    table,
+    th,
+    td {
+        border: 1px double whitesmoke;
+        border-collapse: inherit;
+        width: 90%;
+    }
+
+    th,
+    td {
+        padding: 15px;
+    }
+    h2:hover {
+        background-color: darkgray;
+        color: black;
+    }
+
+    p {
+        font-size: 40px;
+        width: 90%;
+        text-align: justify;
+    }
+    a{
+        font-size:30px;
+    }
+    a:visited {
+        color: whitesmoke;
+    }
+
+    #little {
+        position:fixed;
+        top: 20px;
+        left: 50px;
+        width: 150px
+    }
+    picture {
+        border: 5px solid whitesmoke;
+    }
+   video {
+        border: 5px double whitesmoke;
+    }
+    form{
+        font-size: 30px;
+    }
